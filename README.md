@@ -1,5 +1,5 @@
 # Regional-population-monitoring
-区域监测，从视频、图片、摄像头中，检测画面中总人数，可以自己划定检测区域。
+区域监测，从视频、图片、摄像头中，检测画面中总人数，及人与人的间距，可以自己划定检测区域。
 ## 安装
 - cmd安装需求文档requirements.txt中的库。  
 - 更多权重文件按[yolov5](https://github.com/ultralytics/yolov5)官方文档下载
